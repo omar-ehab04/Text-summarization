@@ -1,8 +1,3 @@
-#pip install sumy 
-
-#pip uninstall nltk 
-
-#pip install nltk 
 import streamlit as st 
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
